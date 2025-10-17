@@ -11,14 +11,9 @@ Fitur utamanya mencakup:
 - Tampilan dashboard ringkas untuk memantau produktivitas.
 
 ## Menu
-- Master :
-    Master Divisi
-    Master Status
-- Pegawai :
-    Data Pegawai
-- Task :
-    Input Data
-    Laporan Pekerjaan
+- Master : Master Divisi, Master Status
+- Pegawai : Data Pegawai
+- Task : Input Data, Laporan Pekerjaan
 ---
 
 ## ⚙️ Langkah Menjalankan Aplikasi

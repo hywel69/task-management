@@ -1,0 +1,16 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Company extends Model
+{
+    use HasFactory;
+
+    protected $table = 'mscompany';
+    protected $primaryKey = 'compId';
+    protected $fillable = ['compLogo','compNama','compPemilik','compStatus','compStatusMng','compKategori', 
+    'compDetail', 'compLokasi', 'compBpjsId', 'compCity','compStatusAnggaran','compTA','compLogoKlien','compKotaKlien'];
+}

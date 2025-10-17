@@ -35,8 +35,9 @@ DB_PASSWORD=password-db
 
 ## Menjalankan Aplikasi
 
+jalan kan perintah:
 ```bash
-php artisan serve
+docker compose up -d --build
 ```
 
 ## Account Administrator Default

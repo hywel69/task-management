@@ -34,9 +34,6 @@ DB_PASSWORD=password-db
 - Done
 
 ## Menjalankan Aplikasi
-
-jalan kan perintah:
-```bash
 docker compose up -d --build
 ```
 

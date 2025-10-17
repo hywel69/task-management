@@ -9,6 +9,16 @@ Fitur utamanya mencakup:
 - Penentuan prioritas dan status tugas (To-Do, In Progress, Done).  
 - Fitur pencarian dan filter berdasarkan status atau tanggal.  
 - Tampilan dashboard ringkas untuk memantau produktivitas.
+
+## Menu
+- Master :
+    Master Divisi
+    Master Status
+- Pegawai :
+    Data Pegawai
+- Task :
+    Input Data
+    Laporan Pekerjaan
 ---
 
 ## ⚙️ Langkah Menjalankan Aplikasi
